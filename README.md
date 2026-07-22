@@ -1,11 +1,22 @@
-### Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-
-About me:  
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working on neuro-symbolic algorithms @ UnlikelyAI  
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love working on highly performant systems
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3nd year student at University of Leicester, studying Software Engineering BSc  
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Python, Go, Java, Javascript  
+```text
+                      ____...                                  
+             .-"--"""".__    `.                                
+            |            `    |                                
+  (         `._....------.._.:          
+   )         .()''        ``().                                
+  '          () .=='  `===  `-.         
+   . )       (   <o>  <o>    g)                                
+    )         )     /        J          
+   (          |.   /      . (                                  
+   $$         (.  (_'.   ,  |`                                 
+   ||         |            ' \                                
+  /||.         \   ___     /   \.                              
+ //||(\         \         /     \o.                            
+.//7' |)         `._____./ (     OObaaaad888b.                 
+(<<. / |     .a888b8aaaaab8d\     OO888888888888a.               
+ \  Y' |    .888888888888888888888888888888888888.              
+  \  \ |   .888888888888888888888888888888888888b              
+   |   |  .d88888P88888888888888888888888b8888888.             
+   b.--d .d88888P8888888888888888a:f888888|888888b             
+   88888b 888888|8888888888888888888888888\8888888
+```
